@@ -13,7 +13,5 @@ public class Sum {
 		System.out.println("Sum of 3 numbers");
 		int sum = a + b+c;
 		System.out.println(sum);
-
 	}
-
 }
